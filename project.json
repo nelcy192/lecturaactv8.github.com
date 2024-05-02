@@ -1,0 +1,35 @@
+{
+  "title": "poemas",
+  "date": "2/5/24",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "poemas.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 9,
+  "totalSize": 1347985,
+  "files": [
+    "cuerpos.png",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "parr.png",
+    "pedro.png",
+    "poemas.jclic",
+    "poemas.jclic.js",
+    "poesi.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
